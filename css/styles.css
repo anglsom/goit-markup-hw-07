@@ -206,7 +206,7 @@ padding: 30px 0;
 .contact-nav__item:not(:last-child){
     margin-left: 50px;
 }
-.ccontact-nav__link:hover, 
+.contact-nav__link:hover, 
 .contact-nav__link:focus{
     fill:var(--accent-color)
 }
@@ -984,7 +984,7 @@ line-height: 1.71;
    /*-- .item-hero-po:hover{
         box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
     } --*/
-    .portfolio-photo__link:hover .hero-po-p{
+    .portfolio-photo__link:hover .portfolio-text{
         transform: translateY(100%);
     }
   .portfolio-box{
